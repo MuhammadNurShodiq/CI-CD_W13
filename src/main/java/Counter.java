@@ -49,4 +49,5 @@ public class Counter {
 		return count;
 	}
 	
+	/*Cek integration*/
 }
